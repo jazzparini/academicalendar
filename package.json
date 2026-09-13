@@ -1,0 +1,11 @@
+{
+  "name": "academicalendar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Revisa deadlines en Notion y envía avisos por Telegram, sin usar un agente de IA.",
+  "main": "check-deadlines.js",
+  "scripts": {
+    "check": "node check-deadlines.js"
+  }
+}
